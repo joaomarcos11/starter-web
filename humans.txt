@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Joao Marcos		joaomarcos11.tech@gmail.com		@joaomarcos11
 
 # THANKS
 
